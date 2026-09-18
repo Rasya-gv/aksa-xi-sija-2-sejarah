@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="560" viewBox="0 0 480 560">
+  <defs>
+    <radialGradient id="glow" cx="35%" cy="25%" r="85%">
+      <stop offset="0%" stop-color="#232838"/>
+      <stop offset="100%" stop-color="#12141c"/>
+    </radialGradient>
+    <pattern id="grain" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="4" fill="transparent"/>
+      <circle cx="1" cy="1" r="0.6" fill="#ffffff" opacity="0.05"/>
+      <circle cx="3" cy="3" r="0.5" fill="#000000" opacity="0.12"/>
+    </pattern>
+  </defs>
+  <rect width="480" height="560" fill="url(#glow)"/>
+  <rect width="480" height="560" fill="url(#grain)"/>
+  <rect x="40" y="76" width="400" height="360" fill="#11131a" stroke="#3a3f52" stroke-width="2"/>
+  <rect x="48" y="84" width="384" height="344" fill="#171a24"/>
+  <text x="240" y="272" text-anchor="middle" font-size="150" opacity="0.95">🚩</text>
+  <text x="60" y="112" font-family="'Courier New', monospace" font-size="10" letter-spacing="3" fill="#c8a24a">BENDA</text>
+  <text x="240" y="500" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="26" font-weight="bold" fill="#f0ead8">Bendera Pusaka</text>
+  <text x="240" y="528" text-anchor="middle" font-family="'Courier New', monospace" font-size="10" letter-spacing="3" fill="#9a968c">KOLEKSI ARSIP RAHASIA</text>
+  <circle cx="420" cy="420" r="34" fill="none" stroke="#9e3b2e" stroke-width="3" opacity="0.8"/>
+  <text x="420" y="426" text-anchor="middle" font-family="'Courier New', monospace" font-size="9" fill="#9e3b2e" opacity="0.9">RAHASIA</text>
+</svg>

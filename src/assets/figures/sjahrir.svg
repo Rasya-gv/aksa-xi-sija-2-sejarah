@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="560" viewBox="0 0 480 560">
+  <defs>
+    <radialGradient id="glow" cx="35%" cy="25%" r="85%">
+      <stop offset="0%" stop-color="#252a3d"/>
+      <stop offset="100%" stop-color="#12141c"/>
+    </radialGradient>
+    <pattern id="grain" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="4" fill="transparent"/>
+      <circle cx="1" cy="1" r="0.6" fill="#ffffff" opacity="0.05"/>
+      <circle cx="3" cy="3" r="0.5" fill="#000000" opacity="0.12"/>
+    </pattern>
+  </defs>
+  <rect width="480" height="560" fill="url(#glow)"/>
+  <rect width="480" height="560" fill="url(#grain)"/>
+  <rect x="18" y="18" width="444" height="524" fill="none" stroke="#c8a24a" stroke-opacity="0.35" stroke-width="2"/>
+  <rect x="26" y="26" width="428" height="508" fill="none" stroke="#c8a24a" stroke-opacity="0.18" stroke-width="1" stroke-dasharray="4 5"/>
+  <text x="240" y="58" text-anchor="middle" font-family="'Courier New', monospace" font-size="13" letter-spacing="4" fill="#c8a24a">ARSIP RAHASIA</text>
+  <text x="240" y="80" text-anchor="middle" font-family="'Courier New', monospace" font-size="10" letter-spacing="3" fill="#8a877f">★ STAMP VERIFIED ARCHIVE ★</text>
+  <rect x="112" y="118" width="256" height="300" fill="#1b1e2a" stroke="#c8a24a" stroke-opacity="0.5" stroke-width="2"/>
+  <rect x="120" y="126" width="240" height="284" fill="#14161f"/>
+  <text x="240" y="268" text-anchor="middle" font-size="120" opacity="0.9">🕊️</text>
+  <text x="126" y="152" font-family="'Courier New', monospace" font-size="9" letter-spacing="2" fill="#c8a24a">FILE ARCHIVE</text>
+  <text x="240" y="468" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-weight="bold" fill="#f0ead8">Sutan Sjahrir</text>
+  <line x1="120" y1="488" x2="360" y2="488" stroke="#c8a24a" stroke-opacity="0.4"/>
+  <text x="240" y="512" text-anchor="middle" font-family="'Courier New', monospace" font-size="11" letter-spacing="3" fill="#9a968c">ARSIP RAHASIA V2 — 2026</text>
+</svg>
