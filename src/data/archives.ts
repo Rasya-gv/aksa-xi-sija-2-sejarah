@@ -23,7 +23,7 @@ export const archives: Archive[] = [
     relatedIds: ['FILE-01', 'FILE-09'],
     image: 'awal-nasionalisme.jpg',
     source: [
-      'Ensiklopedia Sejarah Indonesia — Kemendikbud (esi.kemdikbud.go.id) - Penulis: Dr. Aris Nugroho',
+      'Ensiklopedia Sejarah Indonesia â€” Kemendikbud (esi.kemdikbud.go.id) - Penulis: Dr. Aris Nugroho',
       'Wikipedia bahasa Indonesia - Penulis: Komunitas Wiki Sejarah',
       'Sumber Foto: Pinterest',
     ],
@@ -92,7 +92,7 @@ export const archives: Archive[] = [
     image: 'budi-utomo.jpg',
     source: [
       'Museum Kebangkitan Nasional - Penulis: Tim Museum Bangkit',
-      'Ensiklopedia Sejarah Indonesia — Kemendikbud (esi.kemdikbud.go.id) - Penulis: Dr. Aris Nugroho',
+      'Ensiklopedia Sejarah Indonesia ï¿½ Kemendikbud (esi.kemdikbud.go.id) - Penulis: Dr. Aris Nugroho',
       'Sumber Foto: Pinterest',
     ],
     detail: {
@@ -159,7 +159,7 @@ export const archives: Archive[] = [
     relatedIds: ['FILE-00', 'FILE-01', 'FILE-04'],
     image: 'sarekat-islam.jpg',
     source: [
-      'Ensiklopedia Sejarah Indonesia — Kemendikbud (esi.kemdikbud.go.id) - Penulis: Dr. Aris Nugroho',
+      'Ensiklopedia Sejarah Indonesia ï¿½ Kemendikbud (esi.kemdikbud.go.id) - Penulis: Dr. Aris Nugroho',
       'Wikipedia bahasa Indonesia - Penulis: Komunitas Wiki Sejarah',
       'Sumber Foto: Pinterest',
     ],
@@ -228,7 +228,7 @@ export const archives: Archive[] = [
     relatedIds: ['FILE-10'],
     image: 'indische-partij.jpg',
     source: [
-      'Ensiklopedia Sejarah Indonesia — Kemendikbud (esi.kemdikbud.go.id) - Penulis: Dr. Aris Nugroho',
+      'Ensiklopedia Sejarah Indonesia ï¿½ Kemendikbud (esi.kemdikbud.go.id) - Penulis: Dr. Aris Nugroho',
       'Wikipedia bahasa Indonesia - Penulis: Komunitas Wiki Sejarah',
       'Sumber Foto: Pinterest',
     ],
@@ -357,7 +357,7 @@ export const archives: Archive[] = [
     relatedIds: ['FILE-06', 'FILE-08'],
     image: 'perhimpunan-indonesia.jpg',
     source: [
-      'Ensiklopedia Sejarah Indonesia — Kemendikbud (esi.kemdikbud.go.id) - Penulis: Dr. Aris Nugroho',
+      'Ensiklopedia Sejarah Indonesia ï¿½ Kemendikbud (esi.kemdikbud.go.id) - Penulis: Dr. Aris Nugroho',
       'Wikipedia bahasa Indonesia - Penulis: Komunitas Wiki Sejarah',
       'Sumber Foto: Pinterest',
     ],
@@ -426,7 +426,7 @@ export const archives: Archive[] = [
     relatedIds: ['FILE-05', 'FILE-08', 'FILE-10'],
     image: 'pni.jpg',
     source: [
-      'Ensiklopedia Sejarah Indonesia — Kemendikbud (esi.kemdikbud.go.id) - Penulis: Dr. Aris Nugroho',
+      'Ensiklopedia Sejarah Indonesia ï¿½ Kemendikbud (esi.kemdikbud.go.id) - Penulis: Dr. Aris Nugroho',
       'Wikipedia bahasa Indonesia - Penulis: Komunitas Wiki Sejarah',
       'Sumber Foto: Pinterest',
     ],
@@ -698,7 +698,7 @@ export const archives: Archive[] = [
     relatedIds: ['FILE-03', 'FILE-06'],
     image: 'strategi-perlawanan.jpg',
     source: [
-      'Ensiklopedia Sejarah Indonesia — Kemendikbud (esi.kemdikbud.go.id) - Penulis: Dr. Aris Nugroho',
+      'Ensiklopedia Sejarah Indonesia ï¿½ Kemendikbud (esi.kemdikbud.go.id) - Penulis: Dr. Aris Nugroho',
       'Wikipedia bahasa Indonesia - Penulis: Komunitas Wiki Sejarah',
       'Sumber Foto: Pinterest',
     ],
