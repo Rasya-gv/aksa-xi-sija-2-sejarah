@@ -35,7 +35,7 @@ export const characters: HistoricalFigure[] = [
     emoji: 'ğŸ©º',
     image: 'soetomo.jpg',
     source: [
-      'Ensiklopedia Sejarah Indonesia — Kemendikbud (esi.kemdikbud.go.id) - Penulis: Dr. Aris Nugroho',
+      'Ensiklopedia Sejarah Indonesia ï¿½ Kemendikbud (esi.kemdikbud.go.id) - Penulis: Dr. Aris Nugroho',
       'Wikipedia bahasa Indonesia - Penulis: Komunitas Wiki Sejarah',
       'Sumber Foto: Pinterest',
     ],
@@ -62,7 +62,7 @@ export const characters: HistoricalFigure[] = [
     emoji: 'ğŸ“š',
     image: 'wahidin.jpg',
     source: [
-      'Ensiklopedia Sejarah Indonesia — Kemendikbud (esi.kemdikbud.go.id) - Penulis: Dr. Aris Nugroho',
+      'Ensiklopedia Sejarah Indonesia ï¿½ Kemendikbud (esi.kemdikbud.go.id) - Penulis: Dr. Aris Nugroho',
       'Wikipedia bahasa Indonesia - Penulis: Komunitas Wiki Sejarah',
       'Sumber Foto: Pinterest',
     ],
@@ -89,7 +89,7 @@ export const characters: HistoricalFigure[] = [
     emoji: 'ğŸ™ï¸',
     image: 'tjokroaminoto.jpg',
     source: [
-      'Ensiklopedia Sejarah Indonesia — Kemendikbud (esi.kemdikbud.go.id) - Penulis: Dr. Aris Nugroho',
+      'Ensiklopedia Sejarah Indonesia ï¿½ Kemendikbud (esi.kemdikbud.go.id) - Penulis: Dr. Aris Nugroho',
       'Wikipedia bahasa Indonesia - Penulis: Komunitas Wiki Sejarah',
       'Sumber Foto: Pinterest',
     ],
@@ -117,7 +117,7 @@ export const characters: HistoricalFigure[] = [
     emoji: 'âœ’ï¸',
     image: 'douwes-dekker.jpg',
     source: [
-      'Ensiklopedia Sejarah Indonesia — Kemendikbud (esi.kemdikbud.go.id) - Penulis: Dr. Aris Nugroho',
+      'Ensiklopedia Sejarah Indonesia ï¿½ Kemendikbud (esi.kemdikbud.go.id) - Penulis: Dr. Aris Nugroho',
       'Wikipedia bahasa Indonesia - Penulis: Komunitas Wiki Sejarah',
       'Sumber Foto: Pinterest',
     ],
@@ -144,7 +144,7 @@ export const characters: HistoricalFigure[] = [
     emoji: 'âš•ï¸',
     image: 'cipto.jpg',
     source: [
-      'Ensiklopedia Sejarah Indonesia — Kemendikbud (esi.kemdikbud.go.id) - Penulis: Dr. Aris Nugroho',
+      'Ensiklopedia Sejarah Indonesia ï¿½ Kemendikbud (esi.kemdikbud.go.id) - Penulis: Dr. Aris Nugroho',
       'Wikipedia bahasa Indonesia - Penulis: Komunitas Wiki Sejarah',
       'Sumber Foto: Pinterest',
     ],
@@ -173,7 +173,7 @@ export const characters: HistoricalFigure[] = [
     emoji: 'ğŸ«',
     image: 'ki-hajar.jpg',
     source: [
-      'Ensiklopedia Sejarah Indonesia — Kemendikbud (esi.kemdikbud.go.id) - Penulis: Dr. Aris Nugroho',
+      'Ensiklopedia Sejarah Indonesia ï¿½ Kemendikbud (esi.kemdikbud.go.id) - Penulis: Dr. Aris Nugroho',
       'Wikipedia bahasa Indonesia - Penulis: Komunitas Wiki Sejarah',
       'Sumber Foto: Pinterest',
     ],
@@ -201,7 +201,7 @@ export const characters: HistoricalFigure[] = [
     emoji: 'ğŸŒ™',
     image: 'ahmad-dahlan.jpg',
     source: [
-      'Ensiklopedia Sejarah Indonesia — Kemendikbud (esi.kemdikbud.go.id) - Penulis: Dr. Aris Nugroho',
+      'Ensiklopedia Sejarah Indonesia ï¿½ Kemendikbud (esi.kemdikbud.go.id) - Penulis: Dr. Aris Nugroho',
       'Wikipedia bahasa Indonesia - Penulis: Komunitas Wiki Sejarah',
       'Sumber Foto: Pinterest',
     ],
@@ -228,7 +228,7 @@ export const characters: HistoricalFigure[] = [
     emoji: 'ğŸ“°',
     image: 'tirto.jpg',
     source: [
-      'Ensiklopedia Sejarah Indonesia — Kemendikbud (esi.kemdikbud.go.id) - Penulis: Dr. Aris Nugroho',
+      'Ensiklopedia Sejarah Indonesia ï¿½ Kemendikbud (esi.kemdikbud.go.id) - Penulis: Dr. Aris Nugroho',
       'Wikipedia bahasa Indonesia - Penulis: Komunitas Wiki Sejarah',
       'Sumber Foto: Pinterest',
     ],
@@ -311,7 +311,7 @@ export const characters: HistoricalFigure[] = [
     emoji: 'ğŸ”¥',
     image: 'tan-malaka.jpg',
     source: [
-      'Ensiklopedia Sejarah Indonesia — Kemendikbud (esi.kemdikbud.go.id) - Penulis: Dr. Aris Nugroho',
+      'Ensiklopedia Sejarah Indonesia ï¿½ Kemendikbud (esi.kemdikbud.go.id) - Penulis: Dr. Aris Nugroho',
       'Wikipedia bahasa Indonesia - Penulis: Komunitas Wiki Sejarah',
       'Sumber Foto: Pinterest',
     ],
@@ -338,7 +338,7 @@ export const characters: HistoricalFigure[] = [
     emoji: 'ğŸ•Šï¸',
     image: 'sjahrir.jpg',
     source: [
-      'Ensiklopedia Sejarah Indonesia — Kemendikbud (esi.kemdikbud.go.id) - Penulis: Dr. Aris Nugroho',
+      'Ensiklopedia Sejarah Indonesia ï¿½ Kemendikbud (esi.kemdikbud.go.id) - Penulis: Dr. Aris Nugroho',
       'Wikipedia bahasa Indonesia - Penulis: Komunitas Wiki Sejarah',
       'Sumber Foto: Pinterest',
     ],
@@ -365,7 +365,7 @@ export const characters: HistoricalFigure[] = [
     emoji: 'ğŸ¼',
     image: 'soepratman.jpg',
     source: [
-      'Ensiklopedia Sejarah Indonesia — Kemendikbud (esi.kemdikbud.go.id) - Penulis: Dr. Aris Nugroho',
+      'Ensiklopedia Sejarah Indonesia ï¿½ Kemendikbud (esi.kemdikbud.go.id) - Penulis: Dr. Aris Nugroho',
       'Wikipedia bahasa Indonesia - Penulis: Komunitas Wiki Sejarah',
       'Sumber Foto: Pinterest',
     ],
